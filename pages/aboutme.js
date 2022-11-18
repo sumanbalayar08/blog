@@ -6,7 +6,7 @@ const aboutme = () => {
       <div class="container m-auto px-6 md:px-12 lg:px-10">
         <div class="flex items-center flex-wrap mt-0 px-2 md:px-0">
           < div className = "relative lg:w-full xl:py-10 md:py-10 lg:py-10 sm:py-10" >
-          <h3 className='font-bold text-2xl md:text-center'>Founder of CodingJunk</h3><br/>
+          <h3 className='font-bold text-2xl md:text-center'>Founder of Coding</h3><br/>
           <figure class="mx-auto max-w-screen-md text-center">
             <svg
               aria-hidden="true"
