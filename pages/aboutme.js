@@ -1,6 +1,6 @@
 import React from "react";
 
-const sdfdfdf = () => {
+const aboutme = () => {
   return (
    <div class="flex bg-gray-100 shadow-sm rounded-lg sm:mx-auto lg:mx-auto md:mx-auto sm:my-4 lg:my-4 md:my-4 max-w-md md:max-w-3xl ">
       <div class="container m-auto px-6 md:px-12 lg:px-10">
@@ -42,4 +42,4 @@ const sdfdfdf = () => {
   );
 };
 
-export default sdfdfdf;
+export default aboutme;
