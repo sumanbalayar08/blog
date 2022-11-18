@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Head from 'next/head';
 import {
   FacebookShareButton,
   FacebookIcon,
@@ -21,6 +22,7 @@ export default function PostPage({ post }) {
 <>
     <Head>
       <title>{post.title.rendered}</title>
+
     </Head>
 
     <div class="flex md:bg-gray-100 shadow-sm rounded-lg sm:mx-auto lg:mx-auto md:mx-auto sm:my-4 lg:my-4 md:my-4 max-w-md md:max-w-5xl">
