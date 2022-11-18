@@ -32,7 +32,7 @@ const aboutme = () => {
                 domain programmrs(not existed now) and start uploading DSA
                 articles randomly as a post. But, within a week I was getting
                 remarkable views and it was continuous. Then, I have this idea
-                of purchasing the domain and started doing it seriously.
+                of purchasing the domain and started doing it.
               </p>
             </div>
           </div>
