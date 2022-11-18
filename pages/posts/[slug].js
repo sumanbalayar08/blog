@@ -18,6 +18,11 @@ import { getPost, getSlugs } from "../../utils/wordpress";
 
 export default function PostPage({ post }) {
   return (
+<>
+    <Head>
+      <title>{post.title.rendered}</title>
+    </Head>
+
     <div class="flex md:bg-gray-100 shadow-sm rounded-lg sm:mx-auto lg:mx-auto md:mx-auto sm:my-4 lg:my-4 md:my-4 max-w-md md:max-w-5xl">
       <div className="container m-auto px-6 md:px-12 lg:px-10">
         <div className="flex items-center flex-wrap mt-0 px-2 md:px-0">
@@ -68,6 +73,7 @@ export default function PostPage({ post }) {
         </div>
       </div>
     </div>
+    </>
   );
 }
 
