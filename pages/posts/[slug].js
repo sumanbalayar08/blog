@@ -20,7 +20,7 @@ export default function PostPage({ post }) {
   return (
 <>
     <Head>
-      <title>{post.title.rendered}</title>
+      <title>Recursion on java</title>
     </Head>
 
     <div class="flex md:bg-gray-100 shadow-sm rounded-lg sm:mx-auto lg:mx-auto md:mx-auto sm:my-4 lg:my-4 md:my-4 max-w-md md:max-w-5xl">
