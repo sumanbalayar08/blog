@@ -21,7 +21,7 @@ const sdfdfdf = () => {
             </figure>
             <div>
             <h1 className="text-justify font-serif text-xl font-bold">
-                Why I started the Javatpoint
+                Why I started the CodingJunk
               </h1>
             </div>
             <div>
