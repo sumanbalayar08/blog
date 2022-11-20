@@ -18,9 +18,6 @@ export default function Post({ post }) {
                   {post.title.rendered}
                 </h2>
               </Link>
-              <div class="my-6 text-gray-600 dark:text-gray-300"
-               dangerouslySetInnerHTML={{ __html: post.excerpt.rendered }}>
-              </div>
             </div>
           </div>
           </Link>
